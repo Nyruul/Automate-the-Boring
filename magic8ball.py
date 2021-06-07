@@ -1,10 +1,10 @@
 import random
 
 def getAnswer(answerNumber):
-    if answerNumber == 1:
+    if   answerNumber == 1:
         return'It is certain'
     elif answerNumber == 2:
-            return 'It is deciedly so'
+        return 'It is deciedly so'
     elif answerNumber == 3:
         return 'Yes'
     elif answerNumber == 4:
